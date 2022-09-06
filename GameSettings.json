@@ -1,0 +1,8 @@
+{
+    "width" : 640,
+    "height" : 640,
+    "rows" : 10,
+    "columns" : 10,
+    "entity_size" : 64,
+    "timeout" : 200
+}
